@@ -13,8 +13,8 @@ Este proyecto es un Gestor de Empleados desarrollado utilizando el modelo MVC co
 ## Requisitos del Sistema
 
 - ASP.NET Core SDK
-- Visual Studio (opcional, pero recomendado)
-- Conexión a una base de datos (SQL Server, MySQL, etc.)
+- Visual Studio 
+- Conexión a una base de datos SQL Server
 
 ## Instalación
 
