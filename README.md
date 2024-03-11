@@ -16,13 +16,6 @@ Este proyecto es un Gestor de Empleados desarrollado utilizando el modelo MVC co
 - Visual Studio 
 - Conexión a una base de datos SQL Server
 
-## Instalación
-
-1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-
-```bash
-git clone https://github.com/LuisGuillen-06/Gestor-de-Empleados.git
-
 ## Instrucciones de Configuración y Ejecución
 
 1. Abre el proyecto en tu editor de código o en Visual Studio.
@@ -33,3 +26,11 @@ git clone https://github.com/LuisGuillen-06/Gestor-de-Empleados.git
 3. Compila y ejecuta la aplicación.
    - Si estás utilizando Visual Studio, simplemente presiona el botón de "Ejecutar" (F5).
    - Si estás utilizando un editor de código, puedes compilar y ejecutar la aplicación utilizando los comandos proporcionados por tu entorno de desarrollo.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
+
+```bash
+git clone https://github.com/LuisGuillen-06/Gestor-de-Empleados.git
+
